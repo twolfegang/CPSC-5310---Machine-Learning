@@ -1,1 +1,0 @@
-From this exercise I learned about Pandas dataframes and how to visualize data. It was also a refresher on Jupyter notebooks. I created a data frame, changed the data frame, and selected certain data. I also learned to import data from a csv file that is uploaded to Jupyter.
